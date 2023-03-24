@@ -20,7 +20,7 @@
 
 # HooBank <a name="about-project"></a>
 
-**HooBank** is a website whose aim is to provide visitors/customers with a focused message a clear call-to-action (CTA) that encourages them to take a desired action.
+**HooBank** is a website whose aim is to provide visitors/customers with a focused message, a clear call-to-action (CTA) that encourages them to take a desired action.
 
 ![HooBank](https://i.ibb.co/BK1Hn0x/Screenshot-2022-08-08-at-4-05-48-PM.png)
 
@@ -33,7 +33,7 @@
   <ul>
     <li><a href="https://reactjs.org/">React.js</a></li>
     <li><a href="#">JavaScript</a></li>
-     <li><a href="#">Talwind CSS</a></li>
+     <li><a href="#">Tailwind CSS</a></li>
   </ul>
 </details>
 
@@ -46,7 +46,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- Coming Soon
+- [See Live Link](https://hoobank-x40v.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
