@@ -94,21 +94,13 @@ You can deploy this project using:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 👥 Authors <a name="author"></a>
+## 👥 Author <a name="author"></a>
 
 👤 **John Adibe**
 
 - GitHub: [@Johnadibe](https://github.com/Johnadibe)
 - Twitter: [@JohnAdibe2](https://twitter.com/JohnAdibe2)
 - LinkedIn: [@John Adibe](https://www.linkedin.com/in/john-adibe/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🔭 Future Features <a name="future-features"></a>
-
-- [ ] **[]**
-- [ ] **[]**
-- [ ] **[]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
