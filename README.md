@@ -18,7 +18,7 @@
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
-# 📖 Space Travelers' Hub <a name="about-project"></a>
+# HooBank <a name="about-project"></a>
 
 **HooBank** is a website whose aim is to provide visitors/customers with a focused message a clear call-to-action (CTA) that encourages them to take a desired action.
 
