@@ -6,7 +6,7 @@ import Button from './Button';
 const CardDeal = () => (
     <section className={layout.section}>
       {/* First Dive Box */}
-      <div className={layout.sectionInfo}>
+      <div data-aos="fade-up" className={layout.sectionInfo}>
         <h2 className={styles.heading2}>
         Find a better card deal <br className="sm:block hidden" /> in few easy steps.
         </h2>
@@ -18,7 +18,7 @@ const CardDeal = () => (
       </div>
 
     {/* Second Div Box Image */}
-      <div className={layout.sectionImg}>
+      <div data-aos="fade-down" className={layout.sectionImg}>
         <img src={card} alt="card" className="w-[100%] h-[100%]" />
       </div>
     </section>
